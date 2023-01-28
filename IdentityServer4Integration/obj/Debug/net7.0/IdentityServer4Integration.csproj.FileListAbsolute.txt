@@ -1,0 +1,76 @@
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\appsettings.Development.json
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\appsettings.json
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.exe
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.deps.json
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.runtimeconfig.json
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.pdb
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\IdentityModel.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4.Storage.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.csproj.AssemblyReference.cache
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.AssemblyInfoInputs.cache
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.AssemblyInfo.cs
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.csproj.CoreCompileInputs.cache
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.MvcApplicationPartsAssemblyInfo.cache
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets\msbuild.IdentityServer4Integration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets\msbuild.build.IdentityServer4Integration.props
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServer4Integration.props
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IdentityServer4Integration.props
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets.build.json
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets.development.json
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\scopedcss\bundle\IdentityServer4Integration.styles.css
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.csproj.CopyComplete
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\refint\IdentityServer4Integration.dll
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.pdb
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.genruntimeconfig.cache
+D:\AccountOwnerServer\AccountOwnerServer\IdentityServer4Integration\IdentityServer4Integration\obj\Debug\net7.0\ref\IdentityServer4Integration.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\appsettings.Development.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\appsettings.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.exe
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.deps.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.runtimeconfig.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.pdb
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityModel.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4.Storage.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.csproj.AssemblyReference.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.AssemblyInfoInputs.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.AssemblyInfo.cs
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.csproj.CoreCompileInputs.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets\msbuild.IdentityServer4Integration.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets\msbuild.build.IdentityServer4Integration.props
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServer4Integration.props
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IdentityServer4Integration.props
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets.build.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\staticwebassets.development.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\scopedcss\bundle\IdentityServer4Integration.styles.css
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.csproj.CopyComplete
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\refint\IdentityServer4Integration.dll
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.pdb
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.genruntimeconfig.cache
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\ref\IdentityServer4Integration.dll
