@@ -77,3 +77,5 @@ D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integra
 D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\IdentityServer4Integration.staticwebassets.runtime.json
 D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.RazorAssemblyInfo.cache
 D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\obj\Debug\net7.0\IdentityServer4Integration.RazorAssemblyInfo.cs
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\libman.json
+D:\Personal Repository\IdentityServer4-Integration-OAuth2\IdentityServer4Integration\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
