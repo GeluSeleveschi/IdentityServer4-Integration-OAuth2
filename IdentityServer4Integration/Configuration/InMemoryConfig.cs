@@ -45,22 +45,22 @@ namespace IdentityServer4Integration.Configuration
             {
                 new Client
                 {
-                    ClientId = "company-employee",
+                    ClientId = "school",
                     ClientSecrets = new[]{new Secret ("mysecretcode".Sha512())},
                     AllowedGrantTypes = GrantTypes.ResourceOwnerPasswordAndClientCredentials,
-                    AllowedScopes = {IdentityServerConstants.StandardScopes.OpenId, "companyApi"}
+                    AllowedScopes = {IdentityServerConstants.StandardScopes.OpenId, "schoolApi"}
                 }
             };
 
         public static IEnumerable<ApiScope> GetApiScopes() =>
-                new List<ApiScope> { new ApiScope("companyApi", "CompanyEmployee API") };
+                new List<ApiScope> { new ApiScope("schoolApi", "School API") };
 
         public static IEnumerable<ApiResource> GetApiResources() =>
               new List<ApiResource>
               {
-                new ApiResource("companyApi", "CompanyEmployee API")
+                new ApiResource("schoolApi", "School API")
                 {
-                    Scopes = { "companyApi" }
+                    Scopes = { "schoolApi" }
                 }
               };
     };

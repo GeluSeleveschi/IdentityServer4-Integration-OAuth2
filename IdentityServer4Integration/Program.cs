@@ -19,7 +19,7 @@ builder.Services.AddAuthentication("Bearer").AddJwtBearer("Bearer", opt =>
 {
     opt.RequireHttpsMetadata = false;
     opt.Authority = "https://localhost:5005";
-    opt.Audience = "companyApi";
+    opt.Audience = "schoolApi";
 });
 
 var app = builder.Build();
